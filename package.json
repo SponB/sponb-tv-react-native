@@ -1,0 +1,81 @@
+{
+  "name": "SponBtv",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "ajax-promise-es6": "^3.5.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "react": "16.2.0",
+    "react-native": "0.47.1",
+    "react-native-actionsheet": "^2.2.2",
+    "react-native-android-permissions": "^1.0.0",
+    "react-native-billing": "^2.4.0",
+    "react-native-blur": "^3.1.3",
+    "react-native-busy-indicator": "^1.1.0",
+    "react-native-button": "^2.2.0",
+    "react-native-collection": "^2.0.8",
+    "react-native-default-preference": "^1.1.1",
+    "react-native-deprecated-custom-components": "^0.1.1",
+    "react-native-drawer": "^2.5.0",
+    "react-native-drawer-layout": "^1.3.2",
+    "react-native-easy-grid": "^0.1.15",
+    "react-native-easy-listview-gridview": "^1.0.3",
+    "react-native-elements": "^0.16.0",
+    "react-native-fetch": "^1.0.0",
+    "react-native-floating-hearts": "0.0.7",
+    "react-native-gifted-chat": "^0.2.5",
+    "react-native-image-placeholder": "^1.0.12",
+    "react-native-in-app-utils": "^5.6.0",
+    "react-native-invertible-scroll-view": "^1.1.0",
+    "react-native-keep-awake": "^2.0.5",
+    "react-native-keyboard-listener": "^1.0.1",
+    "react-native-keyboard-spacer": "^0.3.1",
+    "react-native-keyboardevents": "^0.4.5",
+    "react-native-linear-gradient": "^2.3.0",
+    "react-native-loading-overlay": "^1.0.2",
+    "react-native-loading-spinner-overlay": "^0.5.1",
+    "react-native-localization": "^0.1.31",
+    "react-native-modal": "^2.5.0",
+    "react-native-modal-dropdown": "^0.5.0",
+    "react-native-reversed-flat-list": "^1.0.2",
+    "react-native-root-toast": "^2.2.0",
+    "react-native-router-flux": "^3.35.0",
+    "react-native-selectbox": "^0.1.2",
+    "react-native-simple-auth": "^2.1.0",
+    "react-native-simple-store": "^1.3.0",
+    "react-native-slide-view": "^1.0.2",
+    "react-native-sound": "^0.10.4",
+    "react-native-storage": "^0.2.2",
+    "react-native-super-grid": "^1.0.3",
+    "react-native-swipe-gestures": "^1.0.2",
+    "react-native-swiper": "^1.5.13",
+    "react-native-toolbar": "^1.0.7",
+    "react-native-ui-kitten": "^2.0.1",
+    "react-native-vector-icons": "^4.3.0",
+    "react-native-video": "^2.0.0",
+    "react-native-webrtc": "git+https://git@github.com/oney/react-native-webrtc.git",
+    "react-navigation": "^1.0.0-beta.27",
+    "react-string-replace": "^0.4.1",
+    "socket.io-client": "^1.3.7",
+    "sp-react-native-iconbutton": "^2.29.1"
+  },
+  "devDependencies": {
+    "babel-jest": "22.1.0",
+    "babel-preset-react-native": "^4.0.0",
+    "jest": "22.1.4",
+    "react-test-renderer": "16.2.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./app/assets/fonts"
+    ]
+  }
+}

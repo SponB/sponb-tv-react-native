@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SponBtv</string>
+    <string name="facebook_app_id">fbappid</string>
+    <string name="fb_login_protocol_scheme">fblogin</string>
+    <string name="RNB_GOOGLE_PLAY_LICENSE_KEY">key</string>
+</resources>
